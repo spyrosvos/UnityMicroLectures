@@ -29,7 +29,7 @@ public class Spin : MonoBehaviour
 }
 ```
 hello
-<pre> ```mermaid 
+```mermaid 
 sequenceDiagram
     participant Engine as Unity Engine
     participant Obj as GameObject (Spin.cs)
@@ -39,4 +39,4 @@ sequenceDiagram
       Engine->>Obj: Physics/FixedUpdate()
       Engine-->>Obj: Events (OnTriggerEnter, etc.)
     end
-``` </pre>
+```
