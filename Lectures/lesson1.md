@@ -22,9 +22,9 @@ A --- GO2[GameObject]
 GO1 --- C11[Component]
 GO1 --- C12[Component]
 GO2 --- C21[Component]
-C11 --- A1[Asset]
-C11 --- A2[Asset]
-C12 --- A1
+C11 -.- A1[Asset]
+C11 -.- A2[Asset]
+C12 -.- A1
 
 ```
 ---
