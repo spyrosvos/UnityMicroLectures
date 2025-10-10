@@ -54,3 +54,7 @@ https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple
 
 ![Unity shortcuts](../figures/Unity_shortcuts.png)
 *Εικόνα 2: Keyboard shortcuts του Unity Editor.*
+
+## Ανασκόπηση νέων εννοιών μαθήματος
+- βασικά παράθυρα του Unity Editor -> Hierarchy, Scene, Game, Project, Inspector, Console
+- βασικά πλήκτρα χειρισμού του Editor και της σκηνής
