@@ -14,7 +14,7 @@
 - [Μικρομάθημα 2: Τα δομικά στοιχεία του Unity](Lectures/2-Building_blocks.md)
 - [Μικρομάθημα 3: Βασικά στοιχεία C# για το Unity](Lectures/3-CSharp_essentials.md)
 - [Μικρομάθημα 4: Βρόχος ελέγχου και συμβάντα](Lectures/4-Control-loop_events.md)
-- Μικρομάθημα 5: Μετασχηματισμοί
+- [Μικρομάθημα 5: Μετασχηματισμοί](Lectures/5-Transformations.md)
 - Μικρομάθημα 6: Πρόσβαση σε άλλα αντικείμενα και Components
 - ...
 
